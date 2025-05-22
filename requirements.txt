@@ -1,0 +1,13 @@
+
+streamlit
+pytesseract
+pillow
+sentence-transformers
+faiss-cpu
+pymupdf
+langchain
+scikit-learn
+matplotlib
+pyngrok
+gradio
+huggingface_hub
