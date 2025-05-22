@@ -53,19 +53,6 @@ This chatbot helps you:
 4. **Get Insights**: Receive answers with precise citations
 5. **Explore Themes**: Discover common themes across documents
 
-## Installation & Local Development
-
-```bash
-# Clone the repository
-git clone https://huggingface.co/spaces/shalini20/Gen-Ai_Chatbot
-cd Gen-Ai_Chatbot
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
-```
 
 ## Project Structure
 
